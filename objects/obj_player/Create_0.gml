@@ -1,4 +1,6 @@
 health_points = 100;
+sanity = 100;
+ultra = 1000;
 player_move_speed = 6; // cкорость движения
 player_jump_speed = -8; // сила прыжка  
 player_gravity = 0.2; // сила гравитации 
